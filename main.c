@@ -14,6 +14,8 @@ int main(void)
 	printf("\n2.minus");
 	printf("\n3.multiply");
 	printf("\n4.divide");
+	printf("\n5. Exit");
+	printf("Enter your choice: \n");
 	scanf("%d",&selection);
 
 	do
