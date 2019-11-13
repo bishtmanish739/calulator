@@ -10,7 +10,6 @@ int main(void)
 
 	printf("enter your choice");
 
-	delay(2000);
 	printf("\n1.sum");
 	printf("\n2.minus");
 	printf("\n3.multiply");
